@@ -16,11 +16,11 @@ import java.util.concurrent.ExecutorService;
  */
 @RestController
 @RequestMapping("/demo")
-public class DemoController {
+public class VirtualThreadController {
 
     private final ExecutorService virtualThreadPool;
 
-    public DemoController(ExecutorService virtualThreadPool) {
+    public VirtualThreadController(ExecutorService virtualThreadPool) {
         this.virtualThreadPool = virtualThreadPool;
     }
 
