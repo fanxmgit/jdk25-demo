@@ -1,4 +1,4 @@
-package com.niuma.demo.jdk25demo;
+package com.niuma.demo.jdk25demo.controller;
 
 /**
  * @author fanxiaoming

@@ -1,4 +1,4 @@
-package com.niuma.demo.jdk25demo;
+package com.niuma.demo.jdk25demo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
